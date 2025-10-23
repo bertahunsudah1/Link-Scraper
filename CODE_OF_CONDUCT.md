@@ -1,3 +1,1 @@
-# Code of Conduct
-
-Be respectful. We welcome constructive contributions.
+# Code of Conduct\nBe respectful.
